@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Minimal Header -->
+<!-- Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=header&text=Vikash%20Maurya&fontSize=40&fontColor=fff" />
 
 <br/>
 
-### Student & Developer 🚀
+### Student and Developer
 
-Welcome to my GitHub profile! I'm a student focused on building practical web applications and learning new technologies.
+Welcome to my GitHub profile. I am a student focused on building practical web applications and learning new technologies.
 
 [Website](https://vikashmaurya.vercel.app) • [LinkedIn](https://www.linkedin.com/in/vikash031/)
 
@@ -15,15 +15,15 @@ Welcome to my GitHub profile! I'm a student focused on building practical web ap
 
 ---
 
-### 📁 Projects
+### Projects
 
-- 🚀 **[LaunchBase India](https://launchbaseindia.vercel.app)** - A platform for launching and discovering products.
-- 🎓 **[Certify AI](https://certifyai.vercel.app)** - AI-powered certification and verification system.
-- 🌐 **[Personal Portfolio](https://vikashmaurya.vercel.app)** - My official website.
+- **[LaunchBase India](https://launchbaseindia.vercel.app)** - A platform for launching and discovering products.
+- **[Certify AI](https://certifyai.vercel.app)** - AI-powered certification and verification system.
+- **[Personal Portfolio](https://vikashmaurya.vercel.app)** - My official website.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -38,15 +38,11 @@ Welcome to my GitHub profile! I'm a student focused on building practical web ap
 
 ---
 
-### 📊 Contributions
+### Contributions
 
 <div align="center">
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikash031&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true)
-
-<br/>
-
-![Snake Animation](https://raw.githubusercontent.com/Vikash031/Vikash031/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -55,5 +51,8 @@ Welcome to my GitHub profile! I'm a student focused on building practical web ap
 <div align="center">
 
 *Keep learning, keep building.*
+
+<!-- Footer Animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=100&section=footer" />
 
 </div>
