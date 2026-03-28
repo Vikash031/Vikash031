@@ -38,7 +38,7 @@ Welcome to my GitHub profile. I am a student focused on building practical web a
 
 ---
 
-### Contributions
+<!--### Contributions -->
 
 <!-- <div align="center">
 
