@@ -40,11 +40,11 @@ Welcome to my GitHub profile. I am a student focused on building practical web a
 
 ### Contributions
 
-<div align="center">
+<!-- <div align="center">
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikash031&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true)
 
-</div>
+</div> -->
 
 ---
 
